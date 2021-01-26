@@ -30,7 +30,7 @@ export default function Home() {
     <>
       <Head>
         <meta property="og:title" content="Dragon Ball Quiz"/>
-        <meta property="og:image" content={db.url-img-meta} />
+        <meta property="og:image" content={db.metaImg} />
       </Head>
       <QuizBackground backgroundImage={db.bg}>
         <QuizContainer>

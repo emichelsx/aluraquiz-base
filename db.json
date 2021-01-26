@@ -3,7 +3,7 @@
   "title": "Quiz Dragon Ball da Alura",
   "description": "Teste os seus conhecimentos sobre o universo Dragon Ball",
   "url": "https://aluraquiz-base.emichelsx.vercel.app/",
-  "url-img-meta": "images/goku.jpg",
+  "metaImg": "images/goku.jpg",
   "questions": [
     {
       "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
